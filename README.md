@@ -29,3 +29,10 @@
 <!-- wp:paragraph -->
 <p>6. it Should work!</p>
 <!-- /wp:paragraph -->
+<!-- wp:list -->
+<ul><li>For Android</li></ul>
+<!-- /wp:list -->
+
+<!-- wp:list {"ordered":true} -->
+<ol><li>Download TapTap apk https://taptap.en.uptodown.com/android</li><li>Download YGOPRO on the App</li><li>Use any file explorer app to navigate to YGOCORE on your internal storage and locate the cards.cdb file</li><li> Download the cards.cdb file from this link <a href="https://github.com/Sproinkerino/ygopro_cn_translator/tree/master/ygopro_db/Scripts">https://github.com/Sproinkerino/ygopro_cn_translator/tree/master/ygopro_db/Scripts</a> </li><li>Replace cards.cdb file in the ygocore</li><li></li></ol>
+<!-- /wp:list -->
